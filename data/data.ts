@@ -9,7 +9,7 @@ const data = {
     newsletterheading: "Stay tuned for our live updates!",
     copyrightText: `Copyright © ${currentYear} | Design and Developed By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com">Nabeegh</a>`,
     socialIconsHeading: "Follow Us 📣",
-    hideSubscribeForm: true , // make true to disable subscription form 
+    hideSubscribeForm: false , // make true to disable subscription form 
     socialIcons: [
         {
             icon: "facebook",
