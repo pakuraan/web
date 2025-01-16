@@ -22,12 +22,7 @@ const data = {
             link: "https://www.linkedin.com/company/pakuraan/?originalSubdomain=pk",
         },
     ],
-    hide :{
-        subscribeForm: false, // make true to disable subscription form         
-        header: false,
-        content: false,
-        footer: false,
-    }
+   
 }
 
 export default data;
